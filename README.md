@@ -54,7 +54,6 @@
     </a>
     <p><strong>Python, Django, SQLite, CSS, HTML</strong></p>
     <ul>
-        <li>Medi Buddy</li>
         <li>Diabetes Detection Application</li>
         <li>Developed using Django framework for backend functionality</li>
         <li>Utilizes SQLite for efficient and lightweight database management</li>
