@@ -40,3 +40,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulaimankhan98&show_icons=true&locale=en" alt="sulaimankhan98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaimankhan98&" alt="sulaimankhan98" /></p>
+
+<div align="center">
+    <a href='https://www.medibuddy.com/' target="_blank">
+        <img src="https://github.com/user-attachments/assets/ec0305c2-52f2-42c4-80a4-c9bdfac1bf66" alt="Medi Buddy" height="500" />
+    </a>
+    <br>
+    <a href="https://github.com/fadi960/agency_pics" target="_blank">
+        <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github" alt="Repo" />
+    </a>
+    <a href="https://www.earlyflood.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0" alt="Live" />
+    </a>
+    <p><strong>Python, Django, SQLite, CSS, HTML</strong></p>
+    <ul>
+        <li>Medi Buddy</li>
+        <li>Diabetes Detection Application</li>
+        <li>Developed using Django framework for backend functionality</li>
+        <li>Utilizes SQLite for efficient and lightweight database management</li>
+        <li>User-friendly interface built with HTML and CSS</li>
+        <li>Collects user input for various health metrics such as glucose level, blood pressure, skin thickness, insulin, BMI, and more</li>
+        <li>Employs machine learning models for accurate diabetes risk prediction</li>
+        <li>Stores and displays user prediction history for easy reference</li>
+    </ul>
+</div>
+
