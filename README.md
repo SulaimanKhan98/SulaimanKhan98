@@ -43,7 +43,7 @@
 
 <div align="center">
     <a href='https://www.medibuddy.com/' target="_blank">
-        <img src="https://github.com/user-attachments/assets/ec0305c2-52f2-42c4-80a4-c9bdfac1bf66" alt="Medi Buddy" height="500" />
+        <img src="https://github.com/user-attachments/assets/ae2dddc2-a475-43a5-9edb-6e2cca08b37e" alt="Medi Buddy" height="500" />
     </a>
     <br>
     <a href="https://github.com/fadi960/agency_pics" target="_blank">
