@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/sulaimankhan20" target="blank"><img src="https://img.shields.io/twitter/follow/sulaimankhan20?logo=twitter&style=for-the-badge" alt="sulaimankhan20" /></a> </p>
 
-- 🔭 I’m currently working on **Text to Image Generator**
-
 - 🌱 I’m currently learning **Django and Generative Ai**
 
 - 👯 I’m looking to collaborate on **Business, E-Commerce, Blog, Travel, Ai web applications projects**
