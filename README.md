@@ -16,7 +16,7 @@
 
 ## About
 
-Results-driven PM and developer working at the intersection of product strategy, engineering delivery, and AI. I lead teams, close deals, and ship, from discovery calls and SOW writing to hands-on full-stack and mobile development.
+Results-driven PM and Developer working at the intersection of product strategy, engineering delivery, and AI. I lead teams, close deals, and ship, from discovery calls and SOW writing to hands-on full-stack and mobile development.
 
 Currently co-running **QuickGem Solutions** while also managing delivery at **InSpace Web**, a digital agency registered in Australia and the USA. My work spans web, mobile, and AI product domains, with a growing focus on LLM integrations and AI-assisted development (Cursor, Claude).
 
