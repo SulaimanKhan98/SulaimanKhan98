@@ -4,7 +4,7 @@
 
 **Product & Project Manager · Full Stack Developer · AI Builder**
 
-*Jeddah, Saudi Arabia · Co-Founder @ [QuickGem Solutions](https://quickgemsolutions.com)*
+*Jeddah, Saudi Arabia · Co-Founder @ [QuickGem Solutions](https://quickgemsolutions.com) & SummitMate*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sulaimankhan98-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/sulaimankhan98)
 [![Twitter](https://img.shields.io/badge/Twitter-sulaimankhan20-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/sulaimankhan20)
