@@ -2,7 +2,7 @@
 
 # Sulaiman Khan
 
-**Product & Project Manager · Full Stack Developer · AI Builder**
+**Product  Project Manager · Full Stack Developer · AI Builder**
 
 *Jeddah, Saudi Arabia · Co-Founder @ [QuickGem Solutions](https://quickgemsolutions.com) & SummitMate*
 
